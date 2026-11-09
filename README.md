@@ -8,6 +8,10 @@ Built for students, beginner analysts and anyone learning valuation: instead of 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Data: Yahoo Finance](https://img.shields.io/badge/Data-Yahoo%20Finance%20(free)-purple.svg)
 
+## ▶️ Try it live — no sign-up
+
+**[dcf-model-generator.streamlit.app](https://dcf-model-generator.streamlit.app/)** — type a company name (try *ITC*, *TCS* or *DMart*), check the assumptions, download your Excel model.
+
 ## Two modes
 
 ### 1. 🔍 Automatic — type a company name
@@ -49,7 +53,7 @@ streamlit run app.py
 
 Then open http://localhost:8501 in your browser.
 
-**Free hosting:** this app deploys as-is on [Streamlit Community Cloud](https://streamlit.io/cloud) (free tier) — connect this repo, pick `app.py`, done.
+**Hosting:** this app runs free on [Streamlit Community Cloud](https://streamlit.io/cloud) — the live version linked above is deployed from this repo (connect repo → pick `app.py` → Deploy).
 
 ## Project structure
 
